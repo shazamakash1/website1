@@ -1,7 +1,7 @@
 {
-  "name": "static-page",
+  "name": "static-website",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "homepage": "https://shazamakash1.github.io/website1",
   "scripts": {
