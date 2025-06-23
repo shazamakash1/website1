@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import './styles.css';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import Homepage from './components/Homepage';
+import Homepage from './components/HomePage';
 import AboutUsPage from './components/AboutUsPage';
 import GalleryPage from './components/GalleryPage';
 import ContactPage from './components/ContactPage';
